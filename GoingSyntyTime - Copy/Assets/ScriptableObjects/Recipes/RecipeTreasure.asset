@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdb8ca1876c0d9458bcc1413ca8f9dd, type: 3}
+  m_Name: RecipeTreasure
+  m_EditorClassIdentifier: 
+  inputList1:
+  - {fileID: 11400000, guid: 001659f20fe1fe543962b36d78f5337a, type: 2}
+  inputList2:
+  - {fileID: 11400000, guid: f761eed8765a81a4d93d2d5557bc869d, type: 2}
+  outputItems:
+  - {fileID: 11400000, guid: ffa070cdbb4d3cd499e3ccb4425defb5, type: 2}
+  - {fileID: 11400000, guid: 001659f20fe1fe543962b36d78f5337a, type: 2}
+  popupInfo: He got that big sword.
+  craftingSoundEffect: {fileID: 8300000, guid: 7bde60e79b055bc4c95890615bf75cef, type: 3}

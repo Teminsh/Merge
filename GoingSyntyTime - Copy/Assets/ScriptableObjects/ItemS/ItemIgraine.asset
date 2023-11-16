@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd1979720da0a94fac039f747c67a5d, type: 3}
+  m_Name: ItemIgraine
+  m_EditorClassIdentifier: 
+  itemName: Igraine
+  itemPrefab: {fileID: 3293952494585429002, guid: e4b8c1f3023ac54459fc023a5e11c5e7, type: 3}
+  defaultRotation: {x: 0, y: 159, z: 0}
+  positionOffset: {x: 0, y: -0.8, z: 0}
+  tooltipText: IGRAINE
+  failedCraftPrompt: Saxonius is beggin to be defeated.

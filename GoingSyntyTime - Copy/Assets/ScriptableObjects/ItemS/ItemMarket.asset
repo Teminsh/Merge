@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd1979720da0a94fac039f747c67a5d, type: 3}
+  m_Name: ItemMarket
+  m_EditorClassIdentifier: 
+  itemName: Market
+  itemPrefab: {fileID: 2542497802870736399, guid: c933ed2335cd58e46a4dd78998840393, type: 3}
+  defaultRotation: {x: 0, y: 0, z: 0}
+  positionOffset: {x: 0.1, y: -0.4, z: 0}
+  tooltipText: MARKET
+  failedCraftPrompt: 
